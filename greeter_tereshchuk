@@ -10,3 +10,67 @@ end
 
 A string from HS - commit 1
 Random string from HS - commit 2
+
+
+
+
+class Greeter
+	def initialize(who)
+		@who = who
+	end
+	def greet
+		"Hello, #{@who}"
+	end
+end
+class Greeter
+	def initialize(who)
+		@who = who
+	end
+	def greet
+		"Hello, #{@who}"
+	end
+end
+
+class Greeter
+	def initialize(who)
+		@who = who
+	end
+	def greet
+		"Hello, #{@who}"
+	end
+end
+
+class Greeter
+	def initialize(who)
+		@who = who
+	end
+	def greet
+		"Hello, #{@who}"
+	end
+end
+
+class Greeter
+	def initialize(who)
+		@who = who
+	end
+	def greet
+		"Hello, #{@who}"
+	end
+end
+class Greeter
+	def initialize(who)
+		@who = who
+	end
+	def greet
+		"Hello, #{@who}"
+	end
+end
+
+class Greeter
+	def initialize(who)
+		@who = who
+	end
+	def greet
+		"Hello, #{@who}"
+	end
+end
